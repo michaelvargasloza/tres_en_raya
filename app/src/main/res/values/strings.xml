@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nougths and Crosses</string>
+    <string name="un_jugador">1 Player</string>
+    <string name="dos_jugador">2 Player</string>
+    <string name="facil">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="Imposible">Insane</string>
+    <string name="Casilla">Tile</string>
+    <string name="circulos_ganan">Circles win !</string>
+    <string name="aspas_ganan">Crosses win !</string>
+    <string name="empate">Tie !</string>
+
+</resources>
