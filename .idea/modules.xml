@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JuegoTER.iml" filepath="$PROJECT_DIR$/JuegoTER.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JuegoTER.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JuegoTER.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tres_en_raya.iml" filepath="$PROJECT_DIR$/.idea/modules/tres_en_raya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tres_en_raya.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tres_en_raya.app.iml" />
     </modules>
   </component>
 </project>
